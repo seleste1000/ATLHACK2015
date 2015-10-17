@@ -12,6 +12,8 @@
   <p>Pass the vibes is.....</p>
 </body>
 
-
+<FORM METHOD="LINK" ACTION="moodboard.php">
+<INPUT TYPE="submit" VALUE="Enter">
+</FORM>
 
 </html>
