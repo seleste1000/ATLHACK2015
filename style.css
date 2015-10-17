@@ -29,9 +29,15 @@ a {
 }
 
 //Making a button basic code
-<FORM METHOD="LINK" ACTION="page1.htm">
-<INPUT TYPE="submit" VALUE="Clickable Button">
-</FORM>
+//Example of a customized button
+button {
+    display: inline-block;
+    height: 200px;
+    padding: 2px;
+    margin: 2px;
+    vertical-align: top;
+    width: 400px;
+ }
 
 span {
 	font-weight: bold;
