@@ -28,6 +28,11 @@ a {
 	font-family: Verdana, sans-serif;
 }
 
+//Making a button basic code
+<FORM METHOD="LINK" ACTION="page1.htm">
+<INPUT TYPE="submit" VALUE="Clickable Button">
+</FORM>
+
 span {
 	font-weight: bold;
 	font-size: 18px;
