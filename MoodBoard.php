@@ -14,7 +14,7 @@
     <tr>
     
     <td>
-        //each mood gets a button <!--Happy-->
+     <!--Happy-->
     <style>
 .button {
    border: 1px solid #0a3c59;
@@ -113,7 +113,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>loved</a>
+ <a href = '#' class='button'>Cherished</a>
 
 </body>
 </html>
@@ -252,7 +252,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Scared</a>
+ <a href = '#' class='button'>Terrified</a>
 
 </body>
 </html>
@@ -286,7 +286,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Terrified</a>
+ <a href = '#' class='button'>Sorrowful</a>
 
 </body>
 </html>
