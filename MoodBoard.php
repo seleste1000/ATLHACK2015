@@ -42,7 +42,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Happy</a>
+ <a href = '#' class='button'>Delighted</a>
 
 </body>
 </html>
@@ -78,7 +78,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Excited</a>
+ <a href = '#' class='button'>Sprightly</a>
 
 </body>
 </html>
@@ -184,7 +184,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Relaxed</a>
+ <a href = '#' class='button'>Laid-Back</a>
 
 </body>
 </html>
@@ -218,7 +218,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Angry</a>
+ <a href = '#' class='button'>Annoyance</a>
 
 </body>
 </html>
@@ -286,7 +286,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Scared</a>
+ <a href = '#' class='button'>Terrified</a>
 
 </body>
 </html>
@@ -322,7 +322,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Stressed</a>
+ <a href = '#' class='button'>Pressured</a>
 
 </body>
 </html>
@@ -356,7 +356,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Lonely</a>
+ <a href = '#' class='button'>Abadoned</a>
 
 </body>
 </html>
@@ -390,7 +390,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Confused</a>
+ <a href = '#' class='button'>Befuddled</a>
 
 </body>
 </html>
@@ -424,7 +424,7 @@
 </style>
 </head>
 <body>
- <a href = '#' class='button'>Neutral</a>
+ <a href = '#' class='button'>Unaligned</a>
 
 </body>
 </html>
